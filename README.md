@@ -1,9 +1,4 @@
-def a_method(a, b)
-  puts "hi"
-  a + b
-end
- 
-a_method(1,2)
+
 Hi! 👋
 
 You've opened the IDE Sandbox, an environment that you can access on "readme" and "code-along" lessons in Learn. It's a great place to experiment with code! 🎉
